@@ -1,6 +1,4 @@
-<html>
 <head>
-<title>Calendario</title>
 <?
 $anoInicial = '1900';
 $anoFinal = '2100';
@@ -85,4 +83,3 @@ for ($fila = 0; $fila < 7; $fila++){
   </tr>
 </table></form>
 </body>
-</html>
